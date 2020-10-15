@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a sophomore student, studying Software Engineering in University of Malaya.
+I'm focusing mostly on full-stack development. I'm currently learning and exploring React.js while polishing my JavaScript skills.
+To contact me, you can email me at mohamadfairuz1604@gmail.com
