@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **fai1604/fai1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
