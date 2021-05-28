@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm a sophomore Computer Science student, majoring in Software Engineering, at University of Malaya.
-- I'm focusing mostly on full-stack development. I'm currently learning and exploring React.js while polishing my JavaScript skills.
-- My skills include HTML, CSS, Javascript and Node.js.
-- For back-end framework, I use Express.js. 
+- My main focus is front-end development. I am currently programming in PHP as well.
+- My skills include HTML, CSS, Javascript, PHP and Node.js.
 - For front-end framework, I use SemanticUI and Bootstrap 4.
-- To contact me, you can email me at mohamadfairuz1604@gmail.com
+- You can email me at mohamadfairuz1604@gmail.com.
