@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - My skills include HTML, CSS, Javascript, PHP and Node.js.
 - For front-end framework, I use SemanticUI and Bootstrap 4.
 - You can email me at mohamadfairuz1604@gmail.com.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fai1604)](https://github.com/anuraghazra/github-readme-stats)
+
