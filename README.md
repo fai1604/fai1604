@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a sophomore Computer Science student, majoring in Software Engineering, at University of Malaya.
-- My main focus is front-end development. I am currently programming in PHP as well.
-- My skills include HTML, CSS, Javascript, PHP and Node.js.
-- For front-end framework, I use SemanticUI and Bootstrap 4.
+- I'm a third Computer Science student majoring in Software Engineering, at University of Malaya.
+- My main focus is web development.
+- My skills include HTML, CSS, Javascript, PHP, and Python.
 - You can email me at mohamadfairuz1604@gmail.com.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fai1604&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
