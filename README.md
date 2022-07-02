@@ -1,4 +1,9 @@
-### Hi 👋
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/fai1604&color=2A5075&lcolor=757575&style=for-the-badge&logo=Github&text=Visitors)
+
+<h1>Hi, I'm Fai 👋</h1>
+<p align="center">
+  <img width="250" src="https://www.icegif.com/wp-content/uploads/pepe-the-frog-icegif.gif" />
+</p>
 
 <!--
 **fai1604/fai1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +23,7 @@ Here are some ideas to get you started:
 - 📚 I'm a final year Software Engineering student from University of Malaya.
 - 🚀 Aspiring to become a backend developer 
 - 👨🏻‍💻 Currently working on my Final Year Project 
-- 👾 On my free time, I love to sit and enjoy a hot cup of Kopi O :)
+- 👾 On my free time, I love to sit and enjoy a hot cup of coffee  ☕️ :)
 
 ## Languages:
 <p>
@@ -52,13 +57,13 @@ Here are some ideas to get you started:
 
 ## Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fai1604&show_icons=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fai1604&layout=compact&theme=react&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=fai1604&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fai1604&layout=compact&theme=tokyonight&langs_count=8">
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fai1604&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fai1604&show_icons=true&theme=radical)
 
-## 🤝🏻 Do get in touch with me!
+
+## Do get in touch with me!
 <p>
 <a href="https://www.linkedin.com/in/fai1604/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mohamadfairuz1604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
