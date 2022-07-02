@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 - 📚 I'm a final year Software Engineering student from University of Malaya.
+- 🏠 I'm from Miri, Sarawak
 - 🚀 Aspiring to become a backend developer 
 - 👨🏻‍💻 Currently working on my Final Year Project 
 - 👾 On my free time, I love to sit and enjoy a hot cup of coffee  ☕️ :)
