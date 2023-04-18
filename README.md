@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 I'm a final year Software Engineering student from University of Malaya.
+- 📚 I'm a Software Engineering fresh grad from University of Malaya.
 - 🏠 I'm from Miri, Sarawak
-- 🚀 Aspiring to become a backend developer 
-- 👨🏻‍💻 Currently working on my Final Year Project 
+- 🚀 Aspiring to become a software developer/software engineer
+- 👨🏻‍💻 Currently searching for job opportunities 
 - 👾 On my free time, I love to sit and enjoy a hot cup of coffee  ☕️ :)
 
 ## Languages:
