@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 - 📚 I'm a Software Engineering fresh grad from University of Malaya.
 - 🏠 I'm from Miri, Sarawak
-- 🚀 Aspiring to become a software developer/software engineer
-- 👨🏻‍💻 Currently searching for job opportunities 
+- 🚀 ~~Aspiring to become a software developer/software engineer~~ Currently a software engineer!
 - 👾 On my free time, I love to sit and enjoy a hot cup of coffee  ☕️ :)
 
 ## Languages:
